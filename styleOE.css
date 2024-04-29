@@ -1,0 +1,146 @@
+a{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+} 
+
+        /*COINTAIER*/
+.loc img{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    max-width: 450px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+}
+
+.desc{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
+
+.desc h1{
+    color: #e5ff00;
+}
+
+.desc p{
+    font-size: 10px;
+    color: #fff;
+}
+
+
+
+.desc p:hover{
+    color: rgb(187, 255, 0);
+}
+
+        /*COINTAIER 2*/
+
+.loc2 img{
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    max-width: 450px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #0d2340d0;
+}
+
+.desc2{
+    position: absolute;
+    top: 125%;
+    left: 50%;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 20px;
+}
+
+.desc2 h1{
+    color: rgba(14,36,73,255) ;
+}
+
+.desc2 h2, a{
+   color: #252424;
+}
+
+.desc2 p:hover{
+    color: rgb(0, 17, 255);
+}
+
+.desc2 p{
+    font-size: 10px;
+}
+
+         /*COINTAIER 3*/
+
+.loc3 img{
+    position: absolute;
+    top: 210%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    max-width: 450px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+}
+
+.desc3{
+    position: absolute;
+    top: 210%;
+    left: 50%;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
+
+.desc3 h1{
+    color: #e5ff00;
+}
+
+.desc3 p{
+    font-size: 10px;
+    color: #fff;
+}
+
+.desc3 p:hover{
+    color: rgb(187, 255, 0);
+}
+
+          /*COINTAIER 4*/
+
+.loc4 img{
+    position: absolute;
+    top: 259%;
+    left: 10%;
+    max-width: 450px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #0d2340d0;
+}
+
+.desc4{
+    position: absolute;
+    top: 285%;
+    left: 50%;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 20px;
+}
+
+.desc4 h1{
+    color: rgba(14,36,73,255) ;
+}
+
+.desc4 h2, a{
+   color: #252424;
+}
+
+.desc4 p:hover{
+    color: rgb(0, 17, 255);
+}
+
+.desc4 p{
+    font-size: 10px;
+}

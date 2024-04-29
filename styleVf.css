@@ -1,0 +1,110 @@
+.loj img{
+  width: 500px;
+  min-width: 200px;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+}
+
+.text1 h1{
+    position: absolute;
+    top: 40%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: rgb(138, 65, 32); 
+}
+
+.text1 p{
+    position: absolute;
+    top: 52%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #fff; 
+}
+
+.im img{
+    width: 500px;
+    min-width: 200px;
+    position: absolute;
+    top: 130%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+  }
+  
+.text2 h1{
+    position: absolute;
+    top: 120%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: rgb(138, 65, 32); 
+  }
+  
+.text2 p{
+    position: absolute;
+    top: 132%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #000; 
+}
+
+.im3 img{
+  width: 500px;
+  min-width: 200px;
+  position: absolute;
+  top: 210%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+}
+
+.text3 h1{
+    position: absolute;
+    top: 200%;
+    left: 62.5%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: rgb(138, 65, 32);
+}
+
+.text3 p{
+    position: absolute;
+    top: 212%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.im4 img{
+    width: 500px;
+    min-width: 200px;
+    position: absolute;
+    top: 290%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgba(107, 119, 1, 0.836);
+ }
+  
+.text4{
+    position: absolute;
+    top: 292%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: #000;
+}
+
+.text4 h4{
+    color: blue;
+}
